@@ -1,7 +1,7 @@
 {
   "name": "adzily-task",
   "version": "0.1.0",
-  "homepage": "https://kholooud.github.com/new-adzily-task.git",
+  "homepage": "https://github.com/kholooud/new-adzily-task.git",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.1",
